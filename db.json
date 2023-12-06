@@ -88,32 +88,32 @@
     }, {
       "slug": "cbd-packaging",
       "id": "cbd-packaging",
-      "allProductTitle": "CBD Packaging",
-      "allProductImages": [
+      "ProductTitle": "CBD Packaging",
+      "ProductImages": [
         {
           "slug": "rigid-cigarette-boxes",
-          "productTitle": "Rigid Cigarette Boxes",
-          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612919456/rigid-cigarette-boxes.png"
+          "title": "Rigid Cigarette Boxes",
+          "image": "https://res.cloudinary.com/sireprinting/image/upload/v1612919456/rigid-cigarette-boxes.png"
         },
         {
           "slug": "luxury-cigar-boxes",
-          "productTitle": "Luxury Cigar Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632954735luxury%20cigar%20boxes%20Sire%20Printing%2001.png"
+          "title": "Luxury Cigar Boxes",
+          "image": "https://s3.amazonaws.com/sireprinting.com/products/1632954735luxury%20cigar%20boxes%20Sire%20Printing%2001.png"
         },
         {
           "slug": "Small Mailer Boxes",
-          "productTitle": "Small Mailer Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+          "title": "Small Mailer Boxes",
+          "image": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
         },
         {
           "slug": "custom-tincture-boxes",
-          "productTitle": "Custom Tincture Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-01.png"
+          "title": "Custom Tincture Boxes",
+          "image": "https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-01.png"
         },
         {
           "slug": "custom-cigarette-boxes",
-          "productTitle": "Custom Cigarette Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png"
+          "title": "Custom Cigarette Boxes",
+          "image": "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png"
         }
       ]
     }
