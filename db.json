@@ -85,6 +85,37 @@
           "text": "No layout is impossible for us to attain. You might go with a monochromatic look or a fun, wild glamorous pattern, and also, we will certainly print accordingly. In the printing process, we guarantee that the color turns out as it was planned to be. To make your box more eye-catching and appealing, we provide a vast range of addons. If you want your packaging solution to acquire a particular deluxe element, you can get a gold/silver foiling on the package. The foiling will certainly add a unique premium touch and aesthetic value to the boxes."
         }
       ]
+    }, {
+      "slug": "cbd-packaging",
+      "id": "cbd-packaging",
+      "allProductTitle": "CBD Packaging",
+      "allProductImages": [
+        {
+          "slug": "rigid-cigarette-boxes",
+          "productTitle": "Rigid Cigarette Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612919456/rigid-cigarette-boxes.png"
+        },
+        {
+          "slug": "luxury-cigar-boxes",
+          "productTitle": "Luxury Cigar Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632954735luxury%20cigar%20boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "Small Mailer Boxes",
+          "productTitle": "Small Mailer Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "custom-tincture-boxes",
+          "productTitle": "Custom Tincture Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-01.png"
+        },
+        {
+          "slug": "custom-cigarette-boxes",
+          "productTitle": "Custom Cigarette Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png"
+        }
+      ]
     }
   ]
 }
