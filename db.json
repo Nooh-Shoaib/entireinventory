@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "slug": "products-all",
+      "id": "products-all",
+      "allProductImages": [
+        {
+          "slug": "Hair Products Boxes",
+          "productTitle": "Hair Products Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1609539295/Hair%20Products%20Boxes.png"
+        },
+        {
+          "slug": "Hair Spray Boxes",
+          "productTitle": "Hair Spray Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1609624535/Hair%20Spray%20Boxes.png"
+        },
+        {
+          "slug": "Lip Liner Boxes",
+          "productTitle": "Lip Liner Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632954230Lip-Liner-Boxes-Sire-Printing-06.png"
+        },
+        {
+          "slug": "Subscription Boxes",
+          "productTitle": "Subscription Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1609625927/Subscription%20Boxes.png"
+        },
+        {
+          "slug": "Baby Shoes Boxes",
+          "productTitle": "Baby Shoes Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1609626915/Baby%20Shoes%20Boxes.png"
+        },
+        {
+          "slug": "Business Cards Boxes",
+          "productTitle": "Business Cards Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1609627190/Business%20Cards%20Boxes.png"
+        },
+        {
+          "slug": "Cake Boxes",
+          "productTitle": "Cake Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632875158Cake-Boxes-Sire-Printing-02.png"
+        },
+        {
+          "slug": "Chocolate Boxes",
+          "productTitle": "Chocolate Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612312941/Chocolate%20Boxes.png"
+        },
+        {
+          "slug": "Custom Food Boxes",
+          "productTitle": "Custom Food Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313141/custom%20food%20boxes.png"
+        },
+        {
+          "slug": "Food Trays",
+          "productTitle": "Food Trays",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632952030Food-Trays-Sire-Printing-02.png"
+        },
+        {
+          "slug": "Ice Cream Boxes",
+          "productTitle": "Ice Cream Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313409/ice%20cream%20boxes.png"
+        },
+        {
+          "slug": "K Cup Coffee Boxes",
+          "productTitle": "K Cup Coffee Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313558/k%20cup%20coffee%20boxes.png"
+        },
+        {
+          "slug": "Macaron Boxes",
+          "productTitle": "Macaron Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313700/Macaron%20Boxes.png"
+        },
+        {
+          "slug": "Sushi Boxes",
+          "productTitle": "Sushi Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632959533sushi-boxes-sire-printing-05.png"
+        }
+      ],
+      "description": [
+        {
+          "descriptionHeading": "All Our Packaging Products",
+          "descriptionText": "Sireprinting.com is your ultimate one-stop choice to acquire any custom box packaging solutions under a single roof. No matter what you fantasize about, our highly proficient team of dedicated professionals will certainly make it possible for you! The packaging and printing industry is like a vast sea with many horizons, and we are here to help you conquer it with full zeal. Whether you are inquiring about CBD boxes or food packaging solutions or your target niche is the cosmetic industry-related packaging, we have got you fully covered for all its aspects. We give you full freedom to choose the box style of your choice and get it tailored concerning size, shade, layout, and finishing as well"
+        },
+        {
+          "descriptionHeading": "Various Layout and Customization Options",
+          "descriptionText": "No layout is impossible for us to attain. You might go with a monochromatic look or a fun, wild glamorous pattern, and also, we will certainly print accordingly. In the printing process, we guarantee that the color turns out as it was planned to be. To make your box more eye-catching and appealing, we provide a vast range of addons. If you want your packaging solution to acquire a particular deluxe element, you can get a gold/silver foiling on the package. The foiling will certainly add a unique premium touch and aesthetic value to the boxes."
+        }
+      ]
+    }
+  ]
+}
