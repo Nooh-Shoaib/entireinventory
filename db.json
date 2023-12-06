@@ -88,8 +88,8 @@
     }, {
       "slug": "cbd-packaging",
       "id": "cbd-packaging",
-      "ProductTitle": "CBD Packaging",
-      "ProductImages": [
+      "productTitle": "CBD Packaging",
+      "productImages": [
         {
           "slug": "rigid-cigarette-boxes",
           "title": "Rigid Cigarette Boxes",
