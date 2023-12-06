@@ -85,7 +85,7 @@
           "text": "No layout is impossible for us to attain. You might go with a monochromatic look or a fun, wild glamorous pattern, and also, we will certainly print accordingly. In the printing process, we guarantee that the color turns out as it was planned to be. To make your box more eye-catching and appealing, we provide a vast range of addons. If you want your packaging solution to acquire a particular deluxe element, you can get a gold/silver foiling on the package. The foiling will certainly add a unique premium touch and aesthetic value to the boxes."
         }
       ]
-    }, {
+    },[ {
       "slug": "cbd-packaging",
       "id": "cbd-packaging",
       "allProductTitle": "CBD Packaging",
@@ -116,6 +116,6 @@
           "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png"
         }
       ]
-    }
+    }]
   ]
 }
