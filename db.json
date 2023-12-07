@@ -86,5 +86,39 @@
         }
       ]
     }
+  ],
+    "cbdData": [
+     {
+      "slug": "cbd-packaging",
+      "id": "cbd-packaging",
+      "productTitle": "CBD Packaging",
+      "productImages": [
+        {
+          "slug": "rigid-cigarette-boxes",
+          "title": "Rigid Cigarette Boxes",
+          "image": "https://res.cloudinary.com/sireprinting/image/upload/v1612919456/rigid-cigarette-boxes.png"
+        },
+        {
+          "slug": "luxury-cigar-boxes",
+          "title": "Luxury Cigar Boxes",
+          "image": "https://s3.amazonaws.com/sireprinting.com/products/1632954735luxury%20cigar%20boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "Small Mailer Boxes",
+          "title": "Small Mailer Boxes",
+          "image": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "custom-tincture-boxes",
+          "title": "Custom Tincture Boxes",
+          "image": "https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-01.png"
+        },
+        {
+          "slug": "custom-cigarette-boxes",
+          "title": "Custom Cigarette Boxes",
+          "image": "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png"
+        }
+      ]
+    }
   ]
 }
